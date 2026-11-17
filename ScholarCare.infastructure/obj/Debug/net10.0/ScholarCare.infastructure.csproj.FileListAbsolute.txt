@@ -1,0 +1,17 @@
+D:\SCHOLARCARE\ScholarCare\ScholarCare.infastructure\bin\Debug\net10.0\ScholarCare.infastructure.deps.json
+D:\SCHOLARCARE\ScholarCare\ScholarCare.infastructure\bin\Debug\net10.0\ScholarCare.infastructure.dll
+D:\SCHOLARCARE\ScholarCare\ScholarCare.infastructure\bin\Debug\net10.0\ScholarCare.infastructure.pdb
+D:\SCHOLARCARE\ScholarCare\ScholarCare.infastructure\obj\Debug\net10.0\ScholarCare.infastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCHOLARCARE\ScholarCare\ScholarCare.infastructure\obj\Debug\net10.0\ScholarCare.infastructure.AssemblyInfoInputs.cache
+D:\SCHOLARCARE\ScholarCare\ScholarCare.infastructure\obj\Debug\net10.0\ScholarCare.infastructure.AssemblyInfo.cs
+D:\SCHOLARCARE\ScholarCare\ScholarCare.infastructure\obj\Debug\net10.0\ScholarCare.infastructure.csproj.CoreCompileInputs.cache
+D:\SCHOLARCARE\ScholarCare\ScholarCare.infastructure\obj\Debug\net10.0\ScholarCare.infastructure.dll
+D:\SCHOLARCARE\ScholarCare\ScholarCare.infastructure\obj\Debug\net10.0\refint\ScholarCare.infastructure.dll
+D:\SCHOLARCARE\ScholarCare\ScholarCare.infastructure\obj\Debug\net10.0\ScholarCare.infastructure.pdb
+D:\SCHOLARCARE\ScholarCare\ScholarCare.infastructure\obj\Debug\net10.0\ref\ScholarCare.infastructure.dll
+D:\SCHOLARCARE\ScholarCare\ScholarCare.infastructure\obj\Debug\net10.0\ScholarC.73DBBFDF.Up2Date
+D:\SCHOLARCARE\ScholarCare\ScholarCare.infastructure\bin\Debug\net10.0\ScholarCare.infastructure.runtimeconfig.json
+D:\SCHOLARCARE\ScholarCare\ScholarCare.infastructure\obj\Debug\net10.0\ScholarCare.infastructure.csproj.AssemblyReference.cache
+D:\SCHOLARCARE\ScholarCare\ScholarCare.infastructure\obj\Debug\net10.0\ScholarCare.infastructure.genruntimeconfig.cache
+D:\SCHOLARCARE\ScholarCare\ScholarCare.infastructure\bin\Debug\net10.0\ScholarCare.domain.dll
+D:\SCHOLARCARE\ScholarCare\ScholarCare.infastructure\bin\Debug\net10.0\ScholarCare.domain.pdb

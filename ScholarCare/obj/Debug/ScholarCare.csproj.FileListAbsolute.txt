@@ -1,0 +1,9 @@
+D:\SCHOLARCARE\ScholarCare\ScholarCare\bin\Debug\ScholarCare.exe.config
+D:\SCHOLARCARE\ScholarCare\ScholarCare\bin\Debug\ScholarCare.exe
+D:\SCHOLARCARE\ScholarCare\ScholarCare\bin\Debug\ScholarCare.pdb
+D:\SCHOLARCARE\ScholarCare\ScholarCare\obj\Debug\ScholarCare.csproj.AssemblyReference.cache
+D:\SCHOLARCARE\ScholarCare\ScholarCare\obj\Debug\ScholarCare.Properties.Resources.resources
+D:\SCHOLARCARE\ScholarCare\ScholarCare\obj\Debug\ScholarCare.csproj.GenerateResource.cache
+D:\SCHOLARCARE\ScholarCare\ScholarCare\obj\Debug\ScholarCare.csproj.CoreCompileInputs.cache
+D:\SCHOLARCARE\ScholarCare\ScholarCare\obj\Debug\ScholarCare.exe
+D:\SCHOLARCARE\ScholarCare\ScholarCare\obj\Debug\ScholarCare.pdb
